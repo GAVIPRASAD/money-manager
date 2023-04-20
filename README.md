@@ -10,6 +10,7 @@ Technologies Used:
 
 Snapshots of the project:👇
 
+![Screenshot (66)](https://user-images.githubusercontent.com/112298797/233427733-66a9a441-a5e5-4563-a7eb-341084e1a8d8.png)
 ![Screenshot (67)](https://user-images.githubusercontent.com/112298797/233427714-a81b22f8-7d91-41eb-8f47-6a4ccb9188c5.png)
 ![Screenshot (68)](https://user-images.githubusercontent.com/112298797/233427723-a48a2885-42ef-4a2c-b585-2a1af102244a.png)
-![Screenshot (66)](https://user-images.githubusercontent.com/112298797/233427733-66a9a441-a5e5-4563-a7eb-341084e1a8d8.png)
+
